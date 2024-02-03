@@ -1,0 +1,95 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "title": "Exploring the Rhythms of Afrobeats",
+        "body": "Discover the vibrant world of Afrobeats music on our platform. From the infectious rhythms to the cultural influences, Afrobeats is a genre that resonates globally. Join us as we delve into the history, evolution, and impact of Afrobeats on the music scene.",
+        "created_at": "2024-01-15T08:00:00Z",
+        "published_at": "2024-01-20T08:00:00Z",
+        "featured": false,
+        "image_link": "https://example.com/image1.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Unveiling the Sounds of Highlife Music",
+        "body": "Take a journey through the soulful melodies and uplifting rhythms of Highlife music. Originating in Ghana, Highlife has captivated audiences for generations with its joyous tunes and rich heritage. Learn about the pioneers of Highlife and explore our curated collection of tracks.",
+        "created_at": "2024-01-18T08:00:00Z",
+        "published_at": "2024-01-25T08:00:00Z",
+        "featured": true,
+        "image_link": "https://example.com/image2.jpg"
+      },
+      {
+        "id": 3,
+        "title": "The Rise of South African House Music",
+        "body": "Experience the electrifying beats and infectious energy of South African House music. With its roots deeply embedded in the country's diverse culture, South African House has become a global phenomenon. Join us as we spotlight the artists, producers, and trends shaping this dynamic genre.",
+        "created_at": "2024-01-21T08:00:00Z",
+        "published_at": "2024-01-28T08:00:00Z",
+        "featured": false,
+        "image_link": "https://example.com/image3.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Celebrating the Legends of Afrobeat",
+        "body": "Pay tribute to the trailblazers of Afrobeat music, including the iconic Fela Kuti and his pioneering contributions to the genre. Explore the fusion of jazz, funk, and traditional African rhythms that define Afrobeat's signature sound. Discover their timeless classics and influence on contemporary music.",
+        "created_at": "2024-01-24T08:00:00Z",
+        "published_at": "2024-01-31T08:00:00Z",
+        "featured": false,
+        "image_link": "https://example.com/image4.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Revolutionizing African Music with Technology",
+        "body": "Learn how our platform is revolutionizing the African music industry with cutting-edge technology. From personalized recommendations to seamless streaming experiences, we're committed to connecting listeners with their favorite artists and tracks. Join us in embracing the future of African music.",
+        "created_at": "2024-01-27T08:00:00Z",
+        "published_at": "2024-02-03T08:00:00Z",
+        "featured": true,
+        "image_link": "https://example.com/image5.jpg"
+      },
+      {
+        "id": 6,
+        "title": "Discovering the Diversity of African Folk Music",
+        "body": "Embark on a musical journey through the rich tapestry of African folk music. From the rhythmic beats of djembe drums to the soul-stirring melodies of traditional instruments, African folk music embodies the cultural heritage of the continent. Join us as we explore the unique traditions and storytelling woven into every note.",
+        "created_at": "2024-02-05T08:00:00Z",
+        "published_at": "2024-02-10T08:00:00Z",
+        "featured": false,
+        "image_link": "https://example.com/image6.jpg"
+      },
+      {
+        "id": 7,
+        "title": "Jazz Fusion: Blending African Sounds with Global Influences",
+        "body": "Delve into the captivating world of jazz fusion, where African rhythms intertwine with a myriad of global influences. From the experimental sounds of Fela Kuti's Afrobeat jazz to the fusion of traditional African instruments with contemporary jazz, explore how this genre pushes the boundaries of musical innovation.",
+        "created_at": "2024-02-08T08:00:00Z",
+        "published_at": "2024-02-15T08:00:00Z",
+        "featured": false,
+        "image_link": "https://example.com/image7.jpg"
+      },
+      {
+        "id": 8,
+        "title": "The Evolution of African Hip-Hop",
+        "body": "Trace the evolution of African hip-hop from its humble beginnings to its current prominence on the global stage. Explore how artists across the continent have infused hip-hop with their own cultural influences, creating a diverse and dynamic musical landscape. Join us as we celebrate the pioneers and innovators of African hip-hop.",
+        "created_at": "2024-02-12T08:00:00Z",
+        "published_at": "2024-02-17T08:00:00Z",
+        "featured": true,
+        "image_link": "https://example.com/image8.jpg"
+      },
+      {
+        "id": 9,
+        "title": "The Power of African Drumming",
+        "body": "Experience the primal energy and rhythmic complexity of African drumming. From the hypnotic beats of the djembe to the thunderous rhythms of the talking drum, African drumming has captivated audiences for centuries with its raw intensity and cultural significance. Join us as we explore the traditions, techniques, and spiritual connections of African drumming.",
+        "created_at": "2024-02-15T08:00:00Z",
+        "published_at": "2024-02-22T08:00:00Z",
+        "featured": false,
+        "image_link": "https://example.com/image9.jpg"
+      },
+      {
+        "id": 10,
+        "title": "Empowering Female Voices in African Music",
+        "body": "Celebrate the contributions of female artists to the vibrant tapestry of African music. From the soulful vocals of Miriam Makeba to the bold lyricism of Angelique Kidjo, women have played a pivotal role in shaping the continent's musical identity. Join us as we shine a spotlight on the trailblazers, innovators, and changemakers of African music.",
+        "created_at": "2024-02-20T08:00:00Z",
+        "published_at": "2024-02-25T08:00:00Z",
+        "featured": false,
+        "image_link": "https://example.com/image10.jpg"
+      }
+    ]
+  }
+  
